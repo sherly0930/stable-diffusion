@@ -11,3 +11,8 @@ This is a self-learning hands-on GenAI project based on a tutorial. It uses Stab
 
 ## Setup Instructions
 The GUI app requires a Hugging Face access token to run the model.
+
+## Running App Instructions
+- Navigate to the folder where the project files are saved:
+E.g.,  cd C:\Users\User\downloads\stable-diffusion
+- Type: python app.py
