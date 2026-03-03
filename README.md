@@ -14,5 +14,5 @@ The GUI app requires a Hugging Face access token to run the model.
 
 ## Running App Instructions
 - Navigate to the folder where the project files are saved:
-E.g.,  cd C:\Users\User\downloads\stable-diffusion
+E.g.,  cd C:\Users\User\stable-diffusion
 - Type: python app.py
